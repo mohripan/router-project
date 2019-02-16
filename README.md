@@ -61,3 +61,6 @@ export default new Router({
 
 ### Fungsi
 Di dalam koding tersebut berguna untuk membuat fungsi `vue-routing` ini dapat berjalan dengan lancar. Setiap **Path** Memiliki fungsi dimana **Path** tersebut akan mengarahkan kodingan ke dalam komponen-komponen yang berada di dalam project.
+
+## Hasil
+![alt text](https://github.com/mohripan/router-project/blob/master/hasil.jpg)
